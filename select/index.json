@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "影色舞",
+  "base_artist": "MyGO!!!!!",
+  "createdAt": "2025-12-01T01:39:30.929684Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "影色舞",
+      "artist": "MyGO!!!!!",
+      "has_synced": true,
+      "path": "select/01_影色舞_MyGO!!!!!.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "影色舞",
+      "artist": "MyGO!!!!!",
+      "has_synced": true,
+      "path": "select/02_影色舞_MyGO!!!!!.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "影色舞",
+      "artist": "MyGO!!!!!",
+      "has_synced": true,
+      "path": "select/03_影色舞_MyGO!!!!!.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "影色舞 - SilhouetteDance",
+      "artist": "MyGO!!!!!",
+      "has_synced": true,
+      "path": "select/04_影色舞_-_SilhouetteDance_MyGO!!!!!.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "影色舞",
+      "artist": "MyGO!!!!!",
+      "has_synced": true,
+      "path": "select/05_影色舞_MyGO!!!!!.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "影色舞",
+      "artist": "MyGO!!!!!",
+      "has_synced": true,
+      "path": "select/06_影色舞_MyGO!!!!!.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "影色舞",
+      "artist": "MyGO!!!!!",
+      "has_synced": true,
+      "path": "select/07_影色舞_MyGO!!!!!.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "影色舞 (instrumental)",
+      "artist": "MyGO!!!!!",
+      "has_synced": false,
+      "path": "select/08_影色舞_(instrumental)_MyGO!!!!!.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "影色舞",
+      "artist": "MyGO!!!!!",
+      "has_synced": true,
+      "path": "select/09_影色舞_MyGO!!!!!.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "影色舞 - SilhouetteDance",
+      "artist": "MyGO!!!!!",
+      "has_synced": true,
+      "path": "select/10_影色舞_-_SilhouetteDance_MyGO!!!!!.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "影色舞 (instrumental)",
+      "artist": "MyGO!!!!!",
+      "has_synced": false,
+      "path": "select/11_影色舞_(instrumental)_MyGO!!!!!.txt"
+    },
+    {
+      "id": "petitlyrics",
+      "source": "petitlyrics",
+      "title": "影色舞",
+      "artist": "MyGO!!!!!",
+      "has_synced": false,
+      "path": "select/pl_影色舞_MyGO!!!!!.txt"
+    }
+  ]
+}
